@@ -1,0 +1,5 @@
+2a. 0(0|1)*0 : Bit string leading and ending with 0
+2b. Bit string or empty string
+2c. Bit string ending with 0xx
+2d. Bit string with three 1s
+2e. Bit string
